@@ -1,0 +1,17 @@
+Codename: stable
+Date: Fri, 22 Jan 2021 15:30:09 UTC
+Architectures: amd64
+Components: main
+Description: Personal repository
+MD5Sum:
+ 29e4938628c3b69150cd15e32beb84bf 406 main/binary-amd64/Packages
+ f0a3522b706714738930ff1fc1ec119f 311 main/binary-amd64/Packages.gz
+ 22727f7746dae1d7f87dcddba05e4601 69 main/binary-amd64/Release
+SHA1:
+ 0363eee0ab073931c38d23d4a84349c2a6e0c1aa 406 main/binary-amd64/Packages
+ e14f6645010d16f135b9a50fc0dba78677ec95ff 311 main/binary-amd64/Packages.gz
+ 3d37cd92ff674b831ad08d9b5fa267b2fa2f1c38 69 main/binary-amd64/Release
+SHA256:
+ f44e565b09eba2e705bc781a478f634739114d32b103a34666673cfea547a0ce 406 main/binary-amd64/Packages
+ a90b18f7d1271fddd2550ee83208751a0fa4e53ad6e61973181cece113e93f88 311 main/binary-amd64/Packages.gz
+ 006f113b3817a8a562c896b268a7fe6be9f80933d3fbb5bdcdb62a8d60cec356 69 main/binary-amd64/Release
