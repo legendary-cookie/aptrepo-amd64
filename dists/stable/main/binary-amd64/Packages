@@ -11,6 +11,19 @@ SHA1: 63fb0ba05d880fd542e560773db6bb617a1b1cfa
 MD5sum: 48b86d97f99b807e6a6c604676ea9705
 Description: Hello World
 
+Package: mp3-play
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Vincent Schweiger <vincent.schweiger@xolley.de>
+Priority: optional
+Section: base
+Filename: pool/main/m/mp3-play/mp3-play_1.0.0_amd64.deb
+Size: 3332
+SHA256: 3a63695f27aaa0c4444941554b85b0085da4ce5a7f2f781c847d0c6888477ff6
+SHA1: 6e07714ae9fe2d35d02ba6f3b252acadf7d54ed7
+MD5sum: df0325152b48d6ac9518a53417297fd5
+Description: specify a file and play it!
+
 Package: rickroll
 Version: 1.1-1
 Architecture: amd64
