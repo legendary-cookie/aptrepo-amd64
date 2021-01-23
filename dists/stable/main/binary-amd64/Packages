@@ -12,15 +12,15 @@ MD5sum: 48b86d97f99b807e6a6c604676ea9705
 Description: Hello World
 
 Package: rickroll
-Version: 1.0-1
+Version: 1.1-1
 Architecture: amd64
 Maintainer: Vincent Schweiger <vincent.schweiger@xolley.de>
 Priority: optional
 Section: base
-Filename: pool/main/r/rickroll/rickroll_1.0-1_amd64.deb
-Size: 3394380
-SHA256: b1adc1e327bb4acf7b1be55a02711870928139da4d60e4d6def1d3091eeeb48f
-SHA1: 6570aaf88e6921beafb3b87b9da7f104991f0fc1
-MD5sum: d4ad4b20dc8918c2fbceeab2c02150c2
+Filename: pool/main/r/rickroll/rickroll_1.1-1_amd64.deb
+Size: 3394464
+SHA256: b7a864126ca87fc529530935ea831d04c6246afd9a6ac9a175f85e42269965b1
+SHA1: 598543fd96c4fe544cfde8b16b9dc6065a361d04
+MD5sum: e37b6b52a2fb0c351ba4019593efa557
 Description: Well, you know the rules
 
