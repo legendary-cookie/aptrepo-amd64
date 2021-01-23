@@ -37,3 +37,16 @@ SHA1: 8603a84245ba0cedfdc4958d210773791582b9be
 MD5sum: 5194fbc23e0841010c9e624921190743
 Description: Well, you know the rules
 
+Package: todolist
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Vincent Schweiger <vincent.schweiger@xolley.de>
+Priority: optional
+Section: base
+Filename: pool/main/t/todolist/todolist_1.0.0_amd64.deb
+Size: 10002
+SHA256: c0fbf365e77078c958a23d801454b66efce466266cced90bbb00df79be4c14b2
+SHA1: 0674d3c08f99fe80d26156e0e9682f0885e4df16
+MD5sum: 97e9b29d9e6882ae62923397abf56107
+Description: simple todolist, all credits to hit9 <https://github.com/hit9>
+
