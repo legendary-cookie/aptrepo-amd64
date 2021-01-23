@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Codename: stable
 Date: Sat, 23 Jan 2021 14:41:00 UTC
 Architectures: i386 amd64
@@ -24,3 +27,19 @@ SHA256:
  26835544b6a89fafda5891628d040fad4a988ac8e5319b1478f9298a756122fe 1238 main/binary-amd64/Packages
  3b4e37d850d7f83712e0b5bcc35089b285e6515662509e71b0946ea2f66c8b0e 598 main/binary-amd64/Packages.gz
  006f113b3817a8a562c896b268a7fe6be9f80933d3fbb5bdcdb62a8d60cec356 69 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERAQ3w8CrWZGwAx78kNWRhEqMLsAFAmAMNX0ACgkQkNWRhEqM
+LsDOuw//cP9bsPGoYuiixY2sekTgYfbGKVbeol4Pt6cPt1lqjLgXv8hYeUZVAC8H
+rHSeuwPerQmVbSdCf30YRKDejLW1ymQ02wvn6omqIURtr6NZaEoRZwCMZBHwhRBs
+qo3br3YN87HKTBVUTT9hZvn8ctUtyUvvi+9kdRREoZEeESxe2bn7WMxuIngdX5ui
+hLd8OJiVdZbOfbbBss+p+ECh6lnn1lYTC2Hi+fZkU4darEC4lbvQc/r7eaO6Ylty
+iofo1drzoBVyz38aORZWaR0i7r0C2sqSTuNbInFDFTSdgSipShm3Ui3zSPGQj0jW
+4SXsnwSyn7rGkuBaBrnRs/UvrHU03ynCcCzRkD+8MPP6Un6t/jxY//vQxWWzGKxe
+bHw80dYAh/6/zgd07bP00F+Q1ZZbtPUi5dNQawkaNSge2g6asz9l8dcrnMSDpSuo
+8h6WJqFc3fspbneaUyDyFXfWHQmzVzOiGmztptbDrXyc4ZAXUzy1RnZ/Yg/gzNMw
+XXFMt6k5GApyhu/1hy5jirllG8r5Xf+8fxmF+YMriVngfMMQaOBoNTaEXeu3KBmQ
++5UKnlx2ar+BHCOe38S2aONYNe0K81O+ra4zAfNnjSUz70QAMlGZqjgSx09pdHPZ
+9iLn2eKz5W+Eebu0yUeB4rhLnXUZm3KxXsE6uHpRQydEsFo6JkY=
+=+Iiq
+-----END PGP SIGNATURE-----
