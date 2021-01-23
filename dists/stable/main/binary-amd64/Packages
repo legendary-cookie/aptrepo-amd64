@@ -31,9 +31,9 @@ Maintainer: Vincent Schweiger <vincent.schweiger@xolley.de>
 Priority: optional
 Section: base
 Filename: pool/main/r/rickroll/rickroll_1.1-1_amd64.deb
-Size: 3394464
-SHA256: b7a864126ca87fc529530935ea831d04c6246afd9a6ac9a175f85e42269965b1
-SHA1: 598543fd96c4fe544cfde8b16b9dc6065a361d04
-MD5sum: e37b6b52a2fb0c351ba4019593efa557
+Size: 3395758
+SHA256: 088ced8cf165dd799cc741e8ea2e4a249899ea6de5707131f5e0a978373c2dc2
+SHA1: 8603a84245ba0cedfdc4958d210773791582b9be
+MD5sum: 5194fbc23e0841010c9e624921190743
 Description: Well, you know the rules
 
