@@ -44,9 +44,9 @@ Maintainer: Vincent Schweiger <vincent.schweiger@xolley.de>
 Priority: optional
 Section: base
 Filename: pool/main/t/todolist/todolist_1.0.0_amd64.deb
-Size: 10002
-SHA256: c0fbf365e77078c958a23d801454b66efce466266cced90bbb00df79be4c14b2
-SHA1: 0674d3c08f99fe80d26156e0e9682f0885e4df16
-MD5sum: 97e9b29d9e6882ae62923397abf56107
+Size: 8732
+SHA256: be3d3a96c295bcc8d4d06cd2efcf0e9fdd805411af2b5a3e8ae550bd41f15427
+SHA1: 37ed1cc30fcd118ded0dc931682864bcd7e4e445
+MD5sum: 466a1f9409cd7ed90e982118f0468a70
 Description: simple todolist, all credits to hit9 <https://github.com/hit9>
 
