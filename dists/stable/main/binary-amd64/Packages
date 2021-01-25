@@ -1,14 +1,14 @@
 Package: helloworld
-Version: 1.0-1
+Version: 1.1-1
 Architecture: amd64
 Maintainer: Vincent Schweiger <vincent.schweiger@xolley.de>
 Priority: optional
 Section: base
-Filename: pool/main/h/helloworld/helloworld_1.0-1_amd64.deb
-Size: 2840
-SHA256: 65b65f3707c0d654628885985796860d041238413a1b525a271ab5ed630cfc90
-SHA1: 63fb0ba05d880fd542e560773db6bb617a1b1cfa
-MD5sum: 48b86d97f99b807e6a6c604676ea9705
+Filename: pool/main/h/helloworld/helloworld_1.1-1_amd64.deb
+Size: 2844
+SHA256: 80c6b9a76d5e2e21a2e5ce3c19602c1856012ec39bf4a09146ef33de24f11c96
+SHA1: f44740ef1ef165856eb31516eea8acfd101dea2f
+MD5sum: ad41fa987b4dcd57782442fba99198da
 Description: Hello World
 
 Package: mp3-play
