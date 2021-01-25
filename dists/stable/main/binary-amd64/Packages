@@ -15,14 +15,15 @@ Package: mp3-play
 Version: 1.0.0
 Architecture: amd64
 Maintainer: Vincent Schweiger <vincent.schweiger@xolley.de>
+Build-Depends: debhelper (>= 7), libsdl2-mixer-2.0-0, libsdl2-2.0-0
 Priority: optional
 Section: base
 Filename: pool/main/m/mp3-play/mp3-play_1.0.0_amd64.deb
-Size: 3332
-SHA256: 3a63695f27aaa0c4444941554b85b0085da4ce5a7f2f781c847d0c6888477ff6
-SHA1: 6e07714ae9fe2d35d02ba6f3b252acadf7d54ed7
-MD5sum: df0325152b48d6ac9518a53417297fd5
-Description: specify a file and play it!
+Size: 4674
+SHA256: a9dfb7460ac6db9a9dd130e392a56d84cf7cb8b1f0ff84f5cbe2fcb4a74fc223
+SHA1: 2dff09efd0e68eac848abc1a03c7f38c91882e86
+MD5sum: 50e82a345548e4aebc864dfae12803f9
+Description: specify a file and play it
 
 Package: rickroll
 Version: 1.1-1
